@@ -1,0 +1,19 @@
+#header {
+  background-color: red;  
+}
+
+#game-controls {
+  background-color: blue;  
+}
+
+#game-view {
+  background-color: green;  
+}
+
+#footer {
+  background-color: red;  
+}
+
+.hidden {
+  display: none;
+}
